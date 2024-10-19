@@ -1,7 +1,7 @@
 ### This project is based on [msi-ec](https://github.com/BeardOverflow/msi-ec) 
 ### Many thanks to him for their valuable contribution.
 ---
-### this project is for those who are using msi latop in ubuntu
+### this project is for those who are using msi laptop in ubuntu
 
 my device is GF63 Thin 9SC
 
