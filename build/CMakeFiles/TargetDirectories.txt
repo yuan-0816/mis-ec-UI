@@ -1,3 +1,0 @@
-/home/yuan/Desktop/msi_ctrl/build/CMakeFiles/msi_ec_control_gui.dir
-/home/yuan/Desktop/msi_ctrl/build/CMakeFiles/edit_cache.dir
-/home/yuan/Desktop/msi_ctrl/build/CMakeFiles/rebuild_cache.dir
