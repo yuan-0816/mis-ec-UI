@@ -1,0 +1,13 @@
+void write_to_file(const char *path, const char *value);
+char *read_from_file(const char *path);
+void on_enable_webcam(GtkWidget *widget, gpointer data);
+void on_disable_webcam(GtkWidget *widget, gpointer data);
+void on_set_battery_mode(GtkWidget *widget, gpointer data);
+void on_enable_cooler_boost(GtkWidget *widget, gpointer data);
+void on_disable_cooler_boost(GtkWidget *widget, gpointer data);
+void on_eco_mode(GtkWidget *widget, gpointer data);
+void on_comfort_mode(GtkWidget *widget, gpointer data);
+void on_sport_mode(GtkWidget *widget, gpointer data);
+void on_turbo_mode(GtkWidget *widget, gpointer data);
+void update_status_labels(GtkLabel *webcam_status, GtkLabel *cooler_boost_status, GtkLabel *battery_mode_status, GtkLabel *shift_mode_status);
+void on_refresh_status(GtkWidget *widget, gpointer data);
