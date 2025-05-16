@@ -3,6 +3,8 @@
 #include <stdlib.h>
 #include <string.h>
 
+#include "msi_ec_control_gui.h"
+
 void write_to_file(const char *path, const char *value) {
     FILE *file = fopen(path, "w");
     if (file == NULL) {

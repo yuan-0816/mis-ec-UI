@@ -19,7 +19,9 @@ sudo apt-get install libgtk-3-dev
 ## Install
 ```
 git clone https://github.com/yuan-0816/mis-ec-UI.git
-cd mis-ec-UI/build
+cd mis-ec-UI/
+mkdir build
+cd build
 cmake ..
 make
 ```
